@@ -1,86 +1,68 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-          "title1": "Welcome to WBUI2!",
-          "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+    "WBUI2": {
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": true,
+          "HideIconAfter": 45,
+          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+          "DisableIconText": false,
+          "IconPosition": 0,
+          "IconTextColor": 0,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": true,
+          "UpdateInterval": 12
+        },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 1,
+            "buttontext": "Welcome",
+            "title1": "Bienvenido",
+            "text1": "Bienvenido a nuestro servidor de ARK\n\nCon el fin de mejorar la experiencia en el servidor, tienes disponible de manera gratuita el siguiente kit de inicio:\n\n> / kit inicio\n\n\nPor favor lee el apartado de Normas en nuestro Discord.\n\nSi tienes alguna pregunta, o simplemente quieres pasar el rato, no dudes en visitar nuestro servidor de Discord.\n",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        },
+        {
+          "tab2": {
+            "layout": 1,
+            "buttontext": "Tienda",
+            "title1": "Tienda:",
+            "text1": "\n-Tienda de puntos --\n\nTambién disponemos de una tienda por puntos, que contiene objetos y montones de dinos Tenéis un listado completo en la web.\n\nLa forma de obtener puntos, son las siguientes:\n\n    * Por cada tiempo que estéis en los servidores, ireis obteniendo puntos.\n * Por cada donación recibida, se obtienen puntos.\n\n",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        },
+        {
+          "tab3": {
+            "layout": 1,
+            "buttontext": "Configuracion",
+            "title1": "Configuracion:",
+            "text1": "\n- Nivel Maximo Dino salvaje: 150\n\n- Nivel Maximo Personaje (Sin Ascension): 120\n\n- Experiencia X25\n- Maduración X15\n- Cosecha X15\n- Tameo X15\n- Eclosión X15\n\n- Comando Gamma activado\n- Localización el mapa activada\n- Habilitada opción 3rd persona\n\n",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        },
+        {
+          "tab4": {
+            "layout": 1,
+            "buttontext": "Normas",
+            "title1": "Normas",
+            "text1": "\n1.- Normas de conducta y comportamiento:\n1.1 Respeto y cortesía: Se requiere respeto hacia todos los jugadores. No se tolerarán actitudes racistas, insultos o peleas en el chat de voz, chat de texto o mediante carteles ofensivos en los mapas del juego.\n1.2 Lealtad en tribus o alianzas: Unirse con la intención de traicionar será sancionado por la administración.\n1.3 Prohibición de exploits y bugs: El uso de exploits o bugs está totalmente prohibido.\n1.4 Comportamiento PvP y protección de jugadores: Se prohíben las acciones PvP, tales como atraer dinos salvajes a las bases de otros jugadores, encerrar a jugadores sin su consentimiento, así como cualquier forma de robo o asesinato entre jugadores. Estas acciones serán sancionadas de acuerdo con las políticas del servidor.\n1.5 No al spam y publicidad: No se permite el spam con fines publicitarios ni el envío de mensajes repetitivos en los distintos chats.\n1.6 Restricción en clonación y cría de dinos de donación: Queda prohibida la clonación de dinos y objetos de donación, conllevando sanciones severas para toda la tribu.\n1.7 Control de dinos sueltos en el mapa: No se permite dejar Dinos sueltos en el mapa, incluso si están con correa, para no interferir con posibles tameos de otros jugadores.\n1.8 Prohibición de venta de bosses o ascensiones: Queda estrictamente prohibida la venta de bosses o ascensiones por gloris o puntos para evitar desequilibrios en el progreso de los jugadores.\n1.9 Restricción en regalos y requisitos para bosses: Está terminantemente prohibido regalar dinosaurios u objetos a otros jugadores, incluyendo bosses. Además, se requiere que al participar en bosses, los acompañantes aporten dinosaurios de niveles equivalentes y los jugadores sean del mismo nivel que el resto.\n1.10 Política de devolución por pérdida por bugs: En caso de pérdida por bugs o crasheos, solo se devolverán dinos o ítems que pertenezcan a una donación, siempre y cuando exista una grabación que corrobore la pérdida.\n1.11 Nombres de Nick y Tribus: Se prohíben los nombres de nick y de tribu ofensivos en el servidor, así como aquellos genéricos como 'humano', '123', u otros que no aporten originalidad o que incumplan las normas establecidas.\nNormas de construcción:2.1.- Preservación de zonas clave: No está permitido construir en áreas que bloqueen el spawn de jugadores, zonas de recursos de farmeo, por muy pequeñas que sean, notas de explorador o el spawn de suministros, ni tampoco en las zonas de spawn de dinos más significativas.\n2.2.- Acceso y caminos libres: Queda prohibido cerrar zonas de paso o caminos, dejando un espacio mínimo para el paso con un brontosaurio o un giganotosaurio. \n2.3.- Construcción en cuevas: No está permitido construir ni bloquear el acceso a las cuevas que contengan artefactos, ni tampoco tapar las cuevas que tengan como objetivo conseguir o desbloquear algún logro en el juego.\n2.4.- Preservación de las Ruinas: Queda prohibido construir en las Ruinas o en sus proximades, para así preservar su integridad.\n2.5.- Zonas restringidas: No se puede construir en las zonas de The Island (Isla de los Carno y la Isla de los Herbívoros).\n2.6.- Prohibición de estructuras para reservar zonas: No se permite el uso de estructuras como cimientos, pilares, etc., para reservar zonas o evitar que otros jugadores construyan en ellas.\n2.7.- Uso de jaulas y recogida de trampas: Se permiten las jaulas para taming de dinos, pero estas deben ser recogidas al finalizar. Solo se permite mantener trampas si están dentro de los límites de tu base.\n2.8.- Libertad de acceso a recursos comunes: Queda prohibido bloquear o construir sobre charge nodes o extractores de suministros como son los de agua y aceite. Estos recursos se consideran de uso común.\n2.9.- Límites y tamaño de bases: Se permite una base principal y una pequeña acuática para la cría de dinos marinos por mapa. El tamaño de la base principal está limitado al área de un generador tek y la base acuática tendrá un máximo de 7x7. En caso de tener la base principal y la acuática juntas, el tamaño total permitido será el del generador tek, no la suma del área permitida para cada una por separado. Se busca mantener un límite claro en la expansión de las bases para garantizar una distribución equitativa del espacio en el servidor.\n2.10.- Construcción de bases principales: Se permitirá una única base principal de dimensiones de un generador TEK en un solo mapa. La construcción de bases principales de grandes dimensiones en múltiples mapas no será admitida. Antes de proceder con la edificación de una base principal, es crucial considerar cuidadosamente en qué mapa se establecerá, ya que la extensión de este tipo de bases en varios mapas no estará permitida. El propósito es mantener un equilibrio en el uso de espacio en cada mapa y garantizar una experiencia de juego para todos los jugadores.\n2.11.- Control de inactividad y recarga de bases: Se llevará un registro de aquellas bases y jugadores que presenten largos períodos de inactividad y únicamente ingresen al servidor para mantener la recarga de su base. A menos que se notifique a la administración sobre una ausencia planificada, durante un plazo máximo de un mes, el jugador no podrá acceder al servidor por los motivos que sean. Pasado este período, se examinará su actividad. Si se detecta que la única interacción en el servidor es para la recarga de la base sin participación activa en el juego, se procederá a la eliminación de todas las estructuras y pertenencias en los distintos mapas del servidor.\n2.12.- Restricción de estructuras apiladas: Queda prohibido apilar cualquier tipo de estructuras para evitar problemas de rendimiento en el servidor.\n2.13.- Prohibición de cierre de bases con contadores de demolición: No se permite cerrar bases utilizando estructuras o escudos tek si estas poseen un contador de demolición.\n2.14.- Control de estructuras fuera del rango de base: Queda terminantemente prohibida la instalación de depósitos de agua u otras estructuras fuera del rango establecido para tu base. Independientemente de su uso, ya sea para la recolección de agua u otros fines, no se permitirá ninguna estructura fuera del límite definido para tu base.\n\n",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
         }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Discord",
+            "url": "https://discord.gg/J5ZYBJm3NZ"
+          }
+        },
+        {
+          "link2": {
+            "text": "Pagina Web",
+            "url": "https://arkronicos.com/"
+          }
         }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
-        }
-      },
-      {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
-        }
-      }
-    ]
+      ]
+    }
   }
-}
