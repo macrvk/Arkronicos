@@ -18,7 +18,7 @@
             "layout": 1,
             "buttontext": "Welcome",
             "title1": "Bienvenido",
-            "text1": "Bienvenido a nuestro servidor de ARK\n\nCon el fin de mejorar la experiencia en el servidor, tienes disponible de manera gratuita el siguiente kit de inicio:\n\n> / kit inicio\n\n\nPor favor lee el apartado de Normas en nuestro Discord.\n\nSi tienes alguna pregunta, o simplemente quieres pasar el rato, no dudes en visitar nuestro servidor de Discord.\n",
+            "text1": "Bienvenido a nuestro servidor de ARK\n\nCon el fin de mejorar la experiencia en el servidor, tienes disponible de manera gratuita el siguiente kit de inicio:\n\n> Disponible en nuestra tienda, dandole a la casita, en la parte inferior de tu inventario!!\n\n\nPor favor lee el apartado de Normas, también disponible en nuestro Discord.\n\nSi tienes alguna pregunta, o simplemente quieres pasar el rato, no dudes en visitar nuestro servidor de Discord.\n\n Cosas a Tener en cuenta\n\n Nos encontramos en constante desarrollo, y mejoras del server, si sufren errores o cosas a mejorar y tener en cuenta, no dude en hablanarnos para poder cambiarlo al momento, gracias!",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
         },
@@ -27,7 +27,7 @@
             "layout": 1,
             "buttontext": "Tienda",
             "title1": "Tienda:",
-            "text1": "\n-Tienda de puntos --\n\nTambién disponemos de una tienda por puntos, que contiene objetos y montones de dinos Tenéis un listado completo en la web.\n\nLa forma de obtener puntos, son las siguientes:\n\n    * Por cada tiempo que estéis en los servidores, ireis obteniendo puntos.\n * Por cada donación recibida, se obtienen puntos.\n\n",
+            "text1": "\n-Tienda --\n\nTambién disponemos de una tienda, que contiene objetos y montones de dinos Tenéis un listado completo.\n\nLa forma de obtener monedas, son las siguientes:\n\n    * Por cada tiempo que estéis en los servidores, ireis obteniendo puntos.\n * Por cada donación recibida, se obtienen puntos.\n\n (queda destacar que no tenemos la tienda acabada al 100%, para el 1-2 de enero, estaria terminada)",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
         },
