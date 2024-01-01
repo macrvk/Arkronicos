@@ -1,74 +1,67 @@
 {
     "WBUI2": {
-      "settings": {
-          "OpenButton": 0,
-          "HideIcon": true,
-          "HideIconAfter": 45,
-          "IconURL": "https://i.imgur.com/Ytm2uQo.png",
-          "DisableIconText": false,
-          "IconPosition": 0,
-          "IconTextColor": 0,
-          "OpenOnStart": true,
-          "OpenOnStartOnlyNewPlayers": true,
-          "UpdateInterval": 12
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 45,
+            "IconURL": "https://i.imgur.com/Ytm2uQo.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
         },
-      "tabs": [
-
-
-{
-    "tab1": {
-      "layout": 2,
-      "buttontext": "BIENVENIDO / WELCOME",
-      "title1": "BIENVENIDO!!",
-      "title2": "WELCOME!!",
-      "text1": "Bienvenido a nuestro servidor de ARK\n\nCon el fin de mejorar la experiencia en el servidor, tienes disponible de manera gratuita el siguiente kit de inicio:\n\n> Disponible en nuestra tienda, dandole a la casita, en la parte inferior de tu inventario!!\n\n\nPor favor lee el apartado de Normas, también disponible en nuestro Discord.\n\nSi tienes alguna pregunta, o simplemente quieres pasar el rato, no dudes en visitar nuestro servidor de Discord.\n\n Cosas a Tener en cuenta\n\n Nos encontramos en constante desarrollo, y mejoras del server, si sufren errores o cosas a mejorar y tener en cuenta, no dude en hablarnos para poder cambiarlo al momento, gracias!",
-      "text2": "Welcome to our ARK server\n\nIn order to improve the experience on the server, you have the following starter kit available for free:\n\n> Available in our store, clicking on the little house at the bottom of your inventory!!\n\n\nPlease read the Rules section, also available in our Discord.\n\nIf you have any questions, or just want to hang out, feel free to visit our Discord server.\n \n Things to Keep in Mind\n\n We are constantly developing and improving the server, if you experience errors or things to improve and take into account, do not hesitate to contact us so we can change it immediately, thank you!",
-      "imageurl": "https://i.imgur.com/LIRE8SK.png"
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 2,
+                    "buttontext": "BIENVENIDO / WELCOME",
+                    "title1": "BIENVENIDO!!",
+                    "title2": "WELCOME!!",
+                    "text1": "Bienvenido a nuestro servidor de ARK\n\nCon el fin de mejorar la experiencia en el servidor, tienes disponible de manera gratuita el siguiente kit de inicio:\n\n> Disponible en nuestra tienda, dandole a la casita, en la parte inferior de tu inventario!!\n\n\nPor favor lee el apartado de Normas, también disponible en nuestro Discord.\n\nSi tienes alguna pregunta, o simplemente quieres pasar el rato, no dudes en visitar nuestro servidor de Discord.\n\n Cosas a Tener en cuenta\n\n Nos encontramos en constante desarrollo, y mejoras del server, si sufren errores o cosas a mejorar y tener en cuenta, no dude en hablarnos para poder cambiarlo al momento, gracias!",
+                    "text2": "Welcome to our ARK server\n\nIn order to improve the experience on the server, you have the following starter kit available for free:\n\n> Available in our store, clicking on the little house at the bottom of your inventory!!\n\n\nPlease read the Rules section, also available in our Discord.\n\nIf you have any questions, or just want to hang out, feel free to visit our Discord server.\n \n Things to Keep in Mind\n\n We are constantly developing and improving the server, if you experience errors or things to improve and take into account, do not hesitate to contact us so we can change it immediately, thank you!",
+                    "imageurl": "https://i.imgur.com/LIRE8SK.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "TIENDA / SHOP",
+                    "title1": "TIENDA!!",
+                    "title2": "SHOP!!",
+                    "text1": "\n-Tienda --\n\nTambién disponemos de una tienda, que contiene objetos y montones de dinos Tenéis un listado completo.\n\nLa forma de obtener monedas, son las siguientes:\n\n    * Por cada tiempo que estéis en los servidores, ireis obteniendo monedas.\n * Por cada donación recibida, se obtienen monedas.\n\n (queda destacar que no tenemos la tienda acabada al 100%, para el 1-2 de enero, estaria terminada)",
+                    "text2": "\n-Shop --\n\nWe also have a store, which contains objects and lots of dinos. You have a complete list.\n\nThe way to obtain coins is as follows:\n\n * For each time you are there on the servers, you will obtain coins.\n * For each donation received, you will obtain coins.\n\n (it should be noted that we do not have the store 100% finished, by January 1-2, it would be finished)",
+                    "imageurl": "https://i.imgur.com/LIRE8SK.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "CONFIGURACION / CONFIGURATION",
+                    "title1": "CONFIGURACION!!",
+                    "title2": "CONFIGURATION!!",
+                    "text1": "\n- Nivel Maximo Dino salvaje: 150\n\n- Nivel Maximo Personaje (Sin Ascension): 120\n\n- Experiencia X25\n- Maduración X15\n- Cosecha X15\n- Tameo X15\n- Eclosión X15\n\n- Comando Gamma activado\n- Localización el mapa activada\n- Habilitada opción 3rd persona\n\n",
+                    "text2": "\n- Maximum Wild Dino Level: 150\n\n- Maximum Character Level (Without Ascension): 120\n\n- Experience X25\n- Maturation X15\n- Harvest X15\n- Tameo X15\n- Hatching X15 \n\n- Gamma command activated\n- Map location activated\n- 3rd person option enabled\n\n",
+                    "imageurl": "https://i.imgur.com/LIRE8SK.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/J5ZYBJm3NZ"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Pagina Web",
+                    "url": "https://arkronicos.com/"
+                }
+            }
+        ]
     }
-  }
-,
-  {
-    "tab2": {
-      "layout": 2,
-      "buttontext": "TIENDA / SHOP",
-      "title1": "TIENDA!!",
-      "title2": "SHOP!!",
-      "text1": "\n-Tienda --\n\nTambién disponemos de una tienda, que contiene objetos y montones de dinos Tenéis un listado completo.\n\nLa forma de obtener monedas, son las siguientes:\n\n    * Por cada tiempo que estéis en los servidores, ireis obteniendo monedas.\n * Por cada donación recibida, se obtienen monedas.\n\n (queda destacar que no tenemos la tienda acabada al 100%, para el 1-2 de enero, estaria terminada)",
-      "text2": "\n-Shop --\n\nWe also have a store, which contains objects and lots of dinos. You have a complete list.\n\nThe way to obtain coins is as follows:\n\n * For each time you are there on the servers, you will obtain coins.\n * For each donation received, you will obtain coins.\n\n (it should be noted that we do not have the store 100% finished, by January 1-2, it would be finished)",
-      "imageurl": "https://i.imgur.com/LIRE8SK.png"
-    }
-  }
-,
-  {
-    "tab3": {
-      "layout": 2,
-      "buttontext": "CONFIGURACION / CONFIGURATION",
-      "title1": "CONFIGURACION!!",
-      "title2": "CONFIGURATION!!",
-      "text1": "\n- Nivel Maximo Dino salvaje: 150\n\n- Nivel Maximo Personaje (Sin Ascension): 120\n\n- Experiencia X25\n- Maduración X15\n- Cosecha X15\n- Tameo X15\n- Eclosión X15\n\n- Comando Gamma activado\n- Localización el mapa activada\n- Habilitada opción 3rd persona\n\n",
-      "text2": "\n- Maximum Wild Dino Level: 150\n\n- Maximum Character Level (Without Ascension): 120\n\n- Experience X25\n- Maturation X15\n- Harvest X15\n- Tameo X15\n- Hatching X15 \n\n- Gamma command activated\n- Map location activated\n- 3rd person option enabled\n\n",
-      "imageurl": "https://i.imgur.com/LIRE8SK.png"
-    }
-  }
-,
- 
-  }
-],
-"links": [
-  {
-    "link1": {
-      "text": "Discord",
-      "url": "https://discord.gg/J5ZYBJm3NZ"
-    }
-  },
-  {
-    "link2": {
-      "text": "Pagina Web",
-      "url": "https://arkronicos.com/"
-    }
-  }
-]
-}
 }
 
 
