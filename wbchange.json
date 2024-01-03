@@ -1,0 +1,43 @@
+{
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": true,
+      "HideIconAfter": 45,
+      "IconURL": "https://i.imgur.com/Ytm2uQo.png",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": false,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 2,
+          "buttontext": "BIENVENIDO / WELCOME",
+          "title1": "BIENVENIDO!!",
+          "title2": "WELCOME!!",
+          "text1": "Bienvenido a nuestro servidor de ARK\n\nCon el fin de mejorar la experiencia en el servidor, tienes disponible de manera gratuita el siguiente kit de inicio:\n\n> Disponible en nuestra tienda, dandole a la casita, en la parte inferior de tu inventario!!\n\n\nPor favor lee el apartado de Normas, también disponible en nuestro Discord.\n\nSi tienes alguna pregunta, o simplemente quieres pasar el rato, no dudes en visitar nuestro servidor de Discord.\n\n Cosas a Tener en cuenta\n\n Nos encontramos en constante desarrollo, y mejoras del server, si sufren errores o cosas a mejorar y tener en cuenta, no dude en hablarnos para poder cambiarlo al momento, gracias!",
+          "text2": "Welcome to our ARK server\n\nIn order to improve the experience on the server, you have the following starter kit available for free:\n\n> Available in our store, clicking on the little house at the bottom of your inventory!!\n\n\nPlease read the Rules section, also available in our Discord.\n\nIf you have any questions, or just want to hang out, feel free to visit our Discord server.\n \n Things to Keep in Mind\n\n We are constantly developing and improving the server, if you experience errors or things to improve and take into account, do not hesitate to contact us so we can change it immediately, thank you!",
+          "imageurl": "https://i.imgur.com/LIRE8SK.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/J5ZYBJm3NZ"
+        }
+      },
+      {
+        "link2": {
+          "text": "Pagina Web",
+          "url": "https://arkronicos.com/"
+        }
+      }
+    ]
+  }
+}
